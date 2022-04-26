@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+.sizeLabel-css {
+  border-radius: 7px;
+  border: 1px solid black;
+}
+.sizeLabel-css:hover {
+  background-color: rgba(0, 189, 0, 0.685);
+  border: 1px solid transparent;
+}
