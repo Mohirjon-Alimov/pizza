@@ -9,3 +9,13 @@
   background-color: rgba(0, 189, 0, 0.685);
   border: 1px solid transparent;
 }
+.submit-btn {
+  border: none;
+  color: white;
+  background-color: aqua;
+}
+.submit-btn:hover {
+  border: 1px solid aqua;
+  color: black;
+  background-color: transparent;
+}
